@@ -1,0 +1,25 @@
+.body_background {
+    background-image: url("b\'day.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#heading {
+    font-size: 75;
+    color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.studentnp {
+    font-family: cursive;
+}
+
+#pa{
+    margin-top:30px;
+    font-size:20px;
+    font-variant:small-caps;
+    color:white;
+    background-color: red;
+    width: 150;
+    height: 40;
+  }
